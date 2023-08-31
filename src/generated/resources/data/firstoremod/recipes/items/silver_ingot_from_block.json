@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "firstoremod:silver_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "firstoremod:silver_ingot"
+  }
+}

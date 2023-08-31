@@ -1,0 +1,5 @@
+// 1.19.4	2023-05-23T15:05:20.5978429	Loot Tables
+d96f2f98897d2cd16988e6aa411b8b844a9dfbcd data/firstoremod/loot_tables/blocks/deepslate_silver_ore.json
+ca2a72a03fc2fa9e9f19c625129a131ede0ddcaa data/firstoremod/loot_tables/blocks/lamp_block.json
+2252e6d8645b6a10b7f9eff2948ded067ba24327 data/firstoremod/loot_tables/blocks/silver_block.json
+ed76db57941abd33b96fabea5b521ba2855a9578 data/firstoremod/loot_tables/blocks/silver_ore.json

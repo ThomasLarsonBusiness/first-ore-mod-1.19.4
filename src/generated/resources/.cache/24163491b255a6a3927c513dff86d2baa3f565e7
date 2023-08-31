@@ -1,0 +1,13 @@
+// 1.19.4	2023-05-24T14:20:51.3554411	Block States: firstoremod
+0d1b3809835eb81b9fc0508b4331cf382fea6059 assets/firstoremod/blockstates/deepslate_silver_ore.json
+27899570894427e6c9eb155e4c044b236bc7892c assets/firstoremod/blockstates/lamp_block.json
+a4c7ca667090bf3f357e171d161a080580a373cb assets/firstoremod/blockstates/silver_block.json
+d8f2607ac1d18400379c74fe809be38cdff72032 assets/firstoremod/blockstates/silver_ore.json
+ebcfd7f59ddb1993db3f23734b06358f09924b78 assets/firstoremod/models/block/deepslate_silver_ore.json
+43b1279310a4006817129c68fa930cfad135cc72 assets/firstoremod/models/block/lamp_block.json
+9ac75fe1d0ab39c367aec36902c818a7802bb7b0 assets/firstoremod/models/block/silver_block.json
+54557b5b1a00515ff0be78e2db3aa2de63b0600d assets/firstoremod/models/block/silver_ore.json
+841d9283af0ab72aaef58ec21fe049c4a589d468 assets/firstoremod/models/item/deepslate_silver_ore.json
+58fc0149115ff7fb8eac303c4098da9e9a388a2b assets/firstoremod/models/item/lamp_block.json
+5fb03e2f71679e124476f609b22212125c6b563b assets/firstoremod/models/item/silver_block.json
+f3bc9d43b29eaac50cbdb724bf2885a6986111c3 assets/firstoremod/models/item/silver_ore.json

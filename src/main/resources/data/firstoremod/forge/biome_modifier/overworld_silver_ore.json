@@ -1,0 +1,7 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": "firstoremod:silver_ore_placed",
+  "step": "underground_ores"
+
+}

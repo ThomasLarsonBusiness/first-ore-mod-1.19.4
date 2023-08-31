@@ -1,0 +1,32 @@
+{
+  "item.firstoremod.silver_ingot": "Silver Ingot",
+  "item.firstoremod.raw_silver": "Raw Silver",
+  "item.firstoremod.silver_axe": "Silver Axe",
+  "item.firstoremod.silver_pickaxe": "Silver Pickaxe",
+  "item.firstoremod.silver_shovel": "Silver Shovel",
+  "item.firstoremod.silver_sword": "Silver Sword",
+  "item.firstoremod.silver_hoe": "Silver Hoe",
+
+  "item.firstoremod.wooden_scythe": "Wooden Scythe",
+  "item.firstoremod.stone_scythe": "Stone Scythe",
+  "item.firstoremod.iron_scythe": "Iron Scythe",
+  "item.firstoremod.silver_scythe": "Silver Scythe",
+  "item.firstoremod.gold_scythe": "Gold Scythe",
+  "item.firstoremod.diamond_scythe": "Diamond Scythe",
+  "item.firstoremod.netherite_scythe": "Netherite Scythe",
+
+  "item.firstoremod.wooden_hammer": "Wooden Hammer",
+  "item.firstoremod.stone_hammer": "Stone Hammer",
+  "item.firstoremod.iron_hammer": "Iron Hammer",
+  "item.firstoremod.silver_hammer": "Silver Hammer",
+  "item.firstoremod.gold_hammer": "Gold Hammer",
+  "item.firstoremod.diamond_hammer": "Diamond Hammer",
+  "item.firstoremod.netherite_hammer": "Netherite Hammer",
+
+  "block.firstoremod.silver_block": "Silver Block",
+  "block.firstoremod.silver_ore": "Silver Ore",
+  "block.firstoremod.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.firstoremod.lamp_block": "Lamp Block",
+
+  "creativemodtab.firstore_tab": "First Ore Tab"
+}

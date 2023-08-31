@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "firstoremod:silver_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "#S#",
+    " S "
+  ],
+  "result": {
+    "item": "firstoremod:silver_hammer"
+  },
+  "show_notification": true
+}

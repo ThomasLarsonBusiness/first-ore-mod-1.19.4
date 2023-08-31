@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "firstoremod:block/lamp_block"
+    }
+  }
+}

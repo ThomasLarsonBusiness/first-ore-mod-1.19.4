@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:daylight_detector"
+    },
+    "S": {
+      "item": "firstoremod:silver_ingot"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "item": "firstoremod:lamp_block"
+  },
+  "show_notification": true
+}
